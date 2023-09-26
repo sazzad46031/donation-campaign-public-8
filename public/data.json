@@ -1,0 +1,134 @@
+[{
+    "id": 1,
+    "picture": "https://i.ibb.co/tM8sgsf/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#0052FF",
+    "description": "Health refers to a state of physical, mental, and social well-being, encompassing the absence of disease or infirmity. It's influenced by genetics, lifestyle choices, and access to healthcare. Maintaining good health involves regular exercise, balanced nutrition, sufficient sleep, and stress management. Preventive measures like vaccinations and screenings can detect and mitigate health risks. Mental health is equally crucial, addressing emotional and psychological well-being. Social connections and support systems also play a vital role in overall health. Regular check-ups with healthcare providers aid in early disease detection and management. Prioritizing health contributes to a higher quality of life and longevity.",
+    "price": 290
+},
+{
+    "id": 2,
+    "picture": "https://i.ibb.co/xfbLqjs/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444933",
+    "card_bg": "#ff444924",
+    "text_button_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290
+},
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/tM8sgsf/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#0052FF",
+    "description": "Health refers to a state of physical, mental, and social well-being, encompassing the absence of disease or infirmity. It's influenced by genetics, lifestyle choices, and access to healthcare. Maintaining good health involves regular exercise, balanced nutrition, sufficient sleep, and stress management. Preventive measures like vaccinations and screenings can detect and mitigate health risks. Mental health is equally crucial, addressing emotional and psychological well-being. Social connections and support systems also play a vital role in overall health. Regular check-ups with healthcare providers aid in early disease detection and management. Prioritizing health contributes to a higher quality of life and longevity.",
+    "price": 290
+},
+{
+    "id": 4,
+    "picture": "https://i.ibb.co/Jty2dx0/Clothing.png",
+    "title": "Use clothing drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is a fundamental aspect of human culture, serving both functional and expressive purposes. Beyond providing protection from environmental elements, it reflects personal style, cultural identity, and societal norms. Clothing trends continually evolve, influenced by fashion designers, celebrities, and global events. Materials range from natural fibers like cotton and wool to synthetic fabrics, offering versatility and comfort. Clothing can convey a range of messages, from professionalism in business attire to individuality in street fashion. Sustainability is gaining importance, with eco-friendly materials and ethical production practices becoming more prevalent, promoting a more responsible approach to clothing consumption.",
+    "price": 290
+  },
+{
+    "id": 5,
+    "picture": "https://i.ibb.co/xfbLqjs/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444933",
+    "card_bg": "#ff444924",
+    "text_button_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290
+},
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/Jty2dx0/Clothing.png",
+    "title": "Use clothing drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is a fundamental aspect of human culture, serving both functional and expressive purposes. Beyond providing protection from environmental elements, it reflects personal style, cultural identity, and societal norms. Clothing trends continually evolve, influenced by fashion designers, celebrities, and global events. Materials range from natural fibers like cotton and wool to synthetic fabrics, offering versatility and comfort. Clothing can convey a range of messages, from professionalism in business attire to individuality in street fashion. Sustainability is gaining importance, with eco-friendly materials and ethical production practices becoming more prevalent, promoting a more responsible approach to clothing consumption.",
+    "price": 290
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/LQQPJZk/Food.png",
+    "title": "Better food for everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#F87147",
+    "description": "Food is essential for sustenance and nourishment. It encompasses a wide variety of items consumed for energy and nutrition. Diets vary globally, reflecting cultural, regional, and personal preferences. Nutrient-rich foods like fruits, vegetables, grains, and lean proteins support overall health. However, the food landscape also includes processed and fast foods that can contribute to health issues when consumed excessively. Food plays a significant role in social gatherings, celebrations, and cultural traditions, fostering a sense of community. Sustainable and ethical food sourcing is gaining prominence, as individuals and industries increasingly recognize the importance of responsible food production and consumption for the planet's well-being.",
+    "price": 290
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/tM8sgsf/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#0052FF",
+    "description": "Health refers to a state of physical, mental, and social well-being, encompassing the absence of disease or infirmity. It's influenced by genetics, lifestyle choices, and access to healthcare. Maintaining good health involves regular exercise, balanced nutrition, sufficient sleep, and stress management. Preventive measures like vaccinations and screenings can detect and mitigate health risks. Mental health is equally crucial, addressing emotional and psychological well-being. Social connections and support systems also play a vital role in overall health. Regular check-ups with healthcare providers aid in early disease detection and management. Prioritizing health contributes to a higher quality of life and longevity.",
+    "price": 290
+},
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/LQQPJZk/Food.png",
+    "title": "Better food for everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#F87147",
+    "description": "Food is essential for sustenance and nourishment. It encompasses a wide variety of items consumed for energy and nutrition. Diets vary globally, reflecting cultural, regional, and personal preferences. Nutrient-rich foods like fruits, vegetables, grains, and lean proteins support overall health. However, the food landscape also includes processed and fast foods that can contribute to health issues when consumed excessively. Food plays a significant role in social gatherings, celebrations, and cultural traditions, fostering a sense of community. Sustainable and ethical food sourcing is gaining prominence, as individuals and industries increasingly recognize the importance of responsible food production and consumption for the planet's well-being.",
+    "price": 290
+  },
+    
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/xfbLqjs/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444933",
+    "card_bg": "#ff444924",
+    "text_button_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290
+},
+    
+{
+    "id": 11,
+    "picture": "https://i.ibb.co/Jty2dx0/Clothing.png",
+    "title": "Use clothing drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is a fundamental aspect of human culture, serving both functional and expressive purposes. Beyond providing protection from environmental elements, it reflects personal style, cultural identity, and societal norms. Clothing trends continually evolve, influenced by fashion designers, celebrities, and global events. Materials range from natural fibers like cotton and wool to synthetic fabrics, offering versatility and comfort. Clothing can convey a range of messages, from professionalism in business attire to individuality in street fashion. Sustainability is gaining importance, with eco-friendly materials and ethical production practices becoming more prevalent, promoting a more responsible approach to clothing consumption.",
+    "price": 290
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/LQQPJZk/Food.png",
+    "title": "Better food for everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#F87147",
+    "description": "Food is essential for sustenance and nourishment. It encompasses a wide variety of items consumed for energy and nutrition. Diets vary globally, reflecting cultural, regional, and personal preferences. Nutrient-rich foods like fruits, vegetables, grains, and lean proteins support overall health. However, the food landscape also includes processed and fast foods that can contribute to health issues when consumed excessively. Food plays a significant role in social gatherings, celebrations, and cultural traditions, fostering a sense of community. Sustainable and ethical food sourcing is gaining prominence, as individuals and industries increasingly recognize the importance of responsible food production and consumption for the planet's well-being.",
+    "price": 290
+  }]
