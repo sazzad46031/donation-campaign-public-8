@@ -9,9 +9,7 @@ const Donation2 = () => {
         if (donationItems) {
             setDonationItem(donationItems)
         }
-        else {
-            console.log("no data found")
-        }
+        
 
     }, [])
     
