@@ -1,5 +1,6 @@
 [{
     "id": 1,
+    "squred_picture" : "https://i.ibb.co/5sxnZRn/Rectangle-4284.png",
     "picture": "https://i.ibb.co/tM8sgsf/Health.png",
     "title": "Clean water for children",
     "category": "Health",
@@ -11,6 +12,7 @@
 },
 {
     "id": 2,
+    "squred_picture" : "https://i.ibb.co/q9hZ2MH/Rectangle-4287-1.png",
     "picture": "https://i.ibb.co/xfbLqjs/Education.png",
     "title": "Good education",
     "category": "Education",
@@ -22,6 +24,7 @@
 },
   {
     "id": 3,
+    "squred_picture" : "https://i.ibb.co/5sxnZRn/Rectangle-4284.png",
     "picture": "https://i.ibb.co/tM8sgsf/Health.png",
     "title": "Clean water for children",
     "category": "Health",
@@ -33,6 +36,7 @@
 },
 {
     "id": 4,
+    "squred_picture"  : "https://i.ibb.co/pZ5PhNL/Rectangle-4287.png",
     "picture": "https://i.ibb.co/Jty2dx0/Clothing.png",
     "title": "Use clothing drive",
     "category": "Clothing",
@@ -44,6 +48,7 @@
   },
 {
     "id": 5,
+    "squred_picture" : "https://i.ibb.co/q9hZ2MH/Rectangle-4287-1.png",
     "picture": "https://i.ibb.co/xfbLqjs/Education.png",
     "title": "Good education",
     "category": "Education",
@@ -55,6 +60,7 @@
 },
   {
     "id": 6,
+    "squred_picture"  : "https://i.ibb.co/pZ5PhNL/Rectangle-4287.png",
     "picture": "https://i.ibb.co/Jty2dx0/Clothing.png",
     "title": "Use clothing drive",
     "category": "Clothing",
@@ -66,6 +72,7 @@
   },
   {
     "id": 7,
+    "squred_picture" : "https://i.ibb.co/WVLK4B7/Rectangle-4287-2.png",
     "picture": "https://i.ibb.co/LQQPJZk/Food.png",
     "title": "Better food for everyone",
     "category": "Food",
@@ -77,6 +84,7 @@
   },
   {
     "id": 8,
+    "squred_picture" : "https://i.ibb.co/5sxnZRn/Rectangle-4284.png",
     "picture": "https://i.ibb.co/tM8sgsf/Health.png",
     "title": "Clean water for children",
     "category": "Health",
@@ -88,6 +96,7 @@
 },
   {
     "id": 9,
+    "squred_picture" : "https://i.ibb.co/WVLK4B7/Rectangle-4287-2.png",
     "picture": "https://i.ibb.co/LQQPJZk/Food.png",
     "title": "Better food for everyone",
     "category": "Food",
@@ -100,6 +109,7 @@
     
   {
     "id": 10,
+    "squred_picture" : "https://i.ibb.co/q9hZ2MH/Rectangle-4287-1.png",
     "picture": "https://i.ibb.co/xfbLqjs/Education.png",
     "title": "Good education",
     "category": "Education",
@@ -112,6 +122,7 @@
     
 {
     "id": 11,
+    "squred_picture"  : "https://i.ibb.co/pZ5PhNL/Rectangle-4287.png",
     "picture": "https://i.ibb.co/Jty2dx0/Clothing.png",
     "title": "Use clothing drive",
     "category": "Clothing",
@@ -123,6 +134,7 @@
   },
   {
     "id": 12,
+    "squred_picture" : "https://i.ibb.co/WVLK4B7/Rectangle-4287-2.png",
     "picture": "https://i.ibb.co/LQQPJZk/Food.png",
     "title": "Better food for everyone",
     "category": "Food",
